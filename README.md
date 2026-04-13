@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello! I'm Suppe 👋
+# Yo! I'm Suppe 🙋🏽‍♂️
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suppemakinen&color=22c55e&style=flat-square" alt="Profile views" />
@@ -10,13 +10,13 @@
 
 ### 💫 About Me
 <p align="center">
-  I am a passionate developer focused on building modern web applications with <b>Svelte</b>, <b>React</b>, and <b>Next.js</b>. <br>
-  I love exploring <b>AI integrations</b>, optimizing workflows with <b>Bun</b> and <b>pnpm</b>, and crafting clean UI with <b>Tailwind CSS</b>.
+  I am a passionate developer focused on building modern web applications with <b>TypeScript</b>, <b>React</b>, and <b>Next.js</b>. <br>
+  I love exploring <b>AI integrations</b>, optimizing workflows with <b>Bun</b> and <b>pnpm</b>, and crafting clean UI's with <b>Tailwind CSS</b> or maybe even with new libraries.
 </p>
 
 <p align="center">
   🔭 <b>Current Focus:</b> Full-stack development & AI automation <br>
-  ⚡ <b>Fun Fact:</b> I prefer building tools that make development faster and more efficient.
+  ⚡ <b>Fun Fact:</b> I prefer building tools that helps me 😍
 </p>
 
 ---
@@ -52,8 +52,9 @@
 
 ### 🤖 AI Technologies
 <p style="margin: 1rem 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" alt="OpenAI" width="50" height="50" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anthropic/anthropic-original.svg" alt="Anthropic" width="50" height="50" style="margin: 0 10px;" />
+  <img src="https://img.shields.io/badge/Claude_Opus-71277a?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Opus" />
+  <img src="https://img.shields.io/badge/MiniMax_2.7-22c55e?style=for-the-badge&logo=ai&logoColor=white" alt="MiniMax 2.7" />
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4-71277a?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4" />
 </p>
 
 ---
